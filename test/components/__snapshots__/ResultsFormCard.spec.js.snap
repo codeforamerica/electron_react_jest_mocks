@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultsFormCard component should match exact snapshot 1`] = `
+<div>
+  <div
+    className="form-card"
+  >
+    <header
+      className="form-card__header"
+    >
+      <h1
+        className="form-card__title"
+      >
+        <div
+          className="text--centered"
+        >
+          <div
+            className="completedIcon"
+          />
+          <h2
+            className="resultsHeader nudge--med"
+          >
+            Your files are ready!
+          </h2>
+          <p
+            className="resultsSubheader"
+          >
+            We have generated results for undefined County
+          </p>
+          <button
+            className="button button--primary"
+            id="view_results"
+            onClick={[Function]}
+            type="button"
+          >
+            Open Folder
+          </button>
+        </div>
+      </h1>
+    </header>
+    <div
+      className="form-card__content"
+    >
+      <h3
+        className="text--centered"
+      >
+        <p>
+          What's included in the folder:
+        </p>
+      </h3>
+      <div
+        className="sidePadding media-box"
+      >
+        <div
+          className="media-box__media media--icon"
+        >
+          <div
+            className="emoji emoji--med emoji--page-facing-up"
+          />
+        </div>
+        <div
+          className="emojiMediaContent media-box__content"
+        >
+          <p>
+            <b>
+              Full Results File
+              : 
+            </b>
+            CSV file of the original bulk data set with appended columns which display eligibility determinations and provide supporting information.
+          </p>
+        </div>
+      </div>
+      <div
+        className="sidePadding media-box"
+      >
+        <div
+          className="media-box__media media--icon"
+        >
+          <div
+            className="emoji emoji--med emoji--pencil"
+          />
+        </div>
+        <div
+          className="emojiMediaContent media-box__content"
+        >
+          <p>
+            <b>
+              Condensed Results File
+              : 
+            </b>
+            CSV file with eligibility determinations and columns relevant for determining whether a conviction is eligible.
+          </p>
+        </div>
+      </div>
+      <div
+        className="sidePadding media-box"
+      >
+        <div
+          className="media-box__media media--icon"
+        >
+          <div
+            className="emoji emoji--med emoji--thumbs-up"
+          />
+        </div>
+        <div
+          className="emojiMediaContent media-box__content"
+        >
+          <p>
+            <b>
+              Conviction Results File
+              : 
+            </b>
+            CSV file with only Prop 64 convictions in the county of your choice.
+          </p>
+        </div>
+      </div>
+      <div
+        className="sidePadding media-box"
+      >
+        <div
+          className="media-box__media media--icon"
+        >
+          <div
+            className="emoji emoji--med emoji--memo"
+          />
+        </div>
+        <div
+          className="emojiMediaContent media-box__content"
+        >
+          <p>
+            <b>
+              Summary Report
+              : 
+            </b>
+            PDF document with eligibility criteria used to create results and summary statistics on how these results impact those with Prop 64 convictions.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="form-card__footer"
+    >
+      <div
+        className="text--centered"
+      >
+        <button
+          className="button"
+          id="start_over"
+          onClick={[Function]}
+          type="button"
+        >
+          Start Over
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
