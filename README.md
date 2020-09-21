@@ -1,5 +1,7 @@
 # README
 
+THIS REPO HAS BEEN ARCHIVED. NO LONGER ACTIVELY USED OR MAINTAINED.
+
 Sample project to experiment with and demonstrate testing techniques for Electron/React apps that manipulate the file system.
 This repo is used by the Clear My Record team at Code for America to support their development of Electron apps.
 
